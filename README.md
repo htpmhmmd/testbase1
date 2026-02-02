@@ -10,6 +10,7 @@ go.to.base
 base.test
 king.1111
 hard
+lafuf
 winwin
 rugb
 run

@@ -18,3 +18,4 @@ base
 test
 base.test.1
 base.test.2
+base.test.3

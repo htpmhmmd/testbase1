@@ -10,6 +10,7 @@ go.to.base
 base.test
 hard
 winwin
+rugb
 run
 ayola
 winchester

@@ -12,6 +12,7 @@ hard
 winwin
 run
 ayola
+winchester
 ink
 sell.btc
 1.1.ç1.1.

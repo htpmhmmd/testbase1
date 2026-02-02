@@ -9,6 +9,7 @@ base.test
 hard
 run
 ayola
+ink
 sell.btc
 1.1.ç1.1.
 buy.base

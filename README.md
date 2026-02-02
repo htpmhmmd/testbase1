@@ -4,6 +4,7 @@ commit.test.1
 commit.test.2
 this.week.
 go.to.base
+base.test
 sell.btc
 buy.base
 commit.test

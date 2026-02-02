@@ -8,3 +8,4 @@ sell.btc
 buy.base
 commit.test
 testcommit
+ok

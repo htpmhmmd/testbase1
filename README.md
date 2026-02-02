@@ -9,6 +9,7 @@ win
 go.to.base
 base.test
 hard
+winwin
 run
 ayola
 ink

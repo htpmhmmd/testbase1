@@ -6,3 +6,4 @@ this.week.
 go.to.base
 sell.btc
 buy.base
+commit.test

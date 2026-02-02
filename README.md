@@ -6,6 +6,7 @@ this.week.
 hzjhfshjkd
 go.to.base
 base.test
+hard
 run
 sell.btc
 1.1.ç1.1.

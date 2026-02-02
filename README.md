@@ -11,3 +11,4 @@ testcommit
 ok
 come
 test.base
+dump

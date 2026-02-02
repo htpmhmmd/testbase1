@@ -6,6 +6,7 @@ this.week.
 go.to.base
 base.test
 sell.btc
+1.1.ç1.1.
 buy.base
 commit.test
 testcommit

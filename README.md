@@ -8,6 +8,7 @@ go.to.base
 base.test
 hard
 run
+ayola
 sell.btc
 1.1.ç1.1.
 buy.base
